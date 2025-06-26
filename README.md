@@ -8,9 +8,3 @@ Projects are as follows:
 *Task1-Online Reservation System(Using MySQL Database).
 
 *Task2-Number Guessing Game.
-
-*Task3-ATM Interface.
-
-*Task4-Online Examination.
-
-*Task5-Digital Management.
